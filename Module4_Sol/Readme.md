@@ -1,4 +1,4 @@
-# Module-2 Assignment
+# Module-4 Assignment
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
